@@ -1,7 +1,7 @@
 # Lightning Spells (Basic)
 
 - [T0: Static](#Static)
-- [T1: Storm Touch](Storm Touch)
+- [T1: Storm Touch](#Storm Touch)
 - [T2: Lightning](#Lightning)
 
 
