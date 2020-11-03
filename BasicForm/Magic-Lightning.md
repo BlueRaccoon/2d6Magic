@@ -54,7 +54,7 @@
 
 
 
-[^Connected]: Shock Damage travels through conductive materials, allowing it to hit multiple targets. Water, salt, acids, and most metals count. If grabbed, touched, or hit with a metal weapon, two targets are considered "connected." In case of large conductive surfaces (metal tower, ocean, etc) damage falls off at roughly 3dmg per area traveled (or 1dmg/meter).  
-[^Disrupt]: The target is momentarily shocked and dazed. Stances, Spells or other Focused effects, and Planting are all interrupted. If the target has Grabbed someone, they let go (Massive creatures grabbing multiple targets only drop one)  
-[^ Stun ]: Target has been radically dazed and shaken. They must spend their next Action recovering from Stun, and until they do, all Melee/Brawl attacks against them have Advantage.  
-[^ Stagger ]: Target has been thrown momentarily off-balance, and loses one Minor Action from their next turn. If a target can't lose any more Minor Actions, they become Stunned instead.
+**[Connected]:** Shock Damage travels through conductive materials, allowing it to hit multiple targets. Water, salt, acids, and most metals count. If grabbed, touched, or hit with a metal weapon, two targets are considered "connected." In case of large conductive surfaces (metal tower, ocean, etc) damage falls off at roughly 3dmg per area traveled (or 1dmg/meter).  
+**[^Disrupt]:** The target is momentarily shocked and dazed. Stances, Spells or other Focused effects, and Planting are all interrupted. If the target has Grabbed someone, they let go (Massive creatures grabbing multiple targets only drop one)  
+**[^ Stun ]:** Target has been radically dazed and shaken. They must spend their next Action recovering from Stun, and until they do, all Melee/Brawl attacks against them have Advantage.  
+**[^ Stagger ]:** Target has been thrown momentarily off-balance, and loses one Minor Action from their next turn. If a target can't lose any more Minor Actions, they become Stunned instead.
