@@ -1,7 +1,7 @@
 # Lightning Spells (Basic)
 
 - [T0: Static](#Static)
-- [T1: Storm Touch](#Storm Touch)
+- [T1: Storm Touch](#StormTouch)
 - [T2: Lightning](#Lightning)
 
 
@@ -46,7 +46,7 @@
 
 |  🗲🗲  | The purest expression of the Storm is the most beautiful, and also the most deadly |
 | :--: | :----------------------------------------------------------- |
-| ◆◇ƒ  | Fire a blinding arc of electricity outwards in a beam. Mark a straight line out 20m, or until hitting a solid wall. The Lightning hits one target in every area on that line (You choose the target, but it must hit something if able). Anyone Connected or in Close Quarters with a target is also affected. Every affected target takes `Lightning+Td6` damage in a Burst Attack, *(reduced by their `♣Perception`)*. Anyone who takes 3 or more damage is Disrupted, and anyone Injured by the lightning is also Stunned. |
+| ◆◇  | Fire a blinding arc of electricity outwards in a beam. Mark a straight line out 20m, or until hitting a solid wall. The Lightning hits one target in every area on that line (You choose the target, but it must hit something if able). Anyone Connected or in Close Quarters with a target is also affected. Every affected target takes `Lightning+Td6` damage in a Burst Attack, *(reduced by their `♣Perception`)*. Anyone who takes 3 or more damage is Disrupted, and anyone Injured by the lightning is also Stunned. |
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-[^Connected]: Shock Damage travels through conductive materials, allowing it to hit multiple targets. Water, salt, acids, and most metals count. If grabbed, touched, or hit with a metal weapon, two targets are considered "connected." In case of large conductive surfaces (metal tower, ocean, etc) damage falls off at roughly 3dmg per area traveled (or 1dmg/meter).
-[^Disrupt]: The target is momentarily shocked and dazed. Stances, Spells or other Focused effects, and Planting are all interrupted. If the target has Grabbed someone, they let go (Massive creatures grabbing multiple targets only drop one)
-[^ Stun ]: Target has been radically dazed and shaken. They must spend their next Action recovering from Stun, and until they do, all Melee/Brawl attacks against them have Advantage.
+[^Connected]: Shock Damage travels through conductive materials, allowing it to hit multiple targets. Water, salt, acids, and most metals count. If grabbed, touched, or hit with a metal weapon, two targets are considered "connected." In case of large conductive surfaces (metal tower, ocean, etc) damage falls off at roughly 3dmg per area traveled (or 1dmg/meter).  
+[^Disrupt]: The target is momentarily shocked and dazed. Stances, Spells or other Focused effects, and Planting are all interrupted. If the target has Grabbed someone, they let go (Massive creatures grabbing multiple targets only drop one)  
+[^ Stun ]: Target has been radically dazed and shaken. They must spend their next Action recovering from Stun, and until they do, all Melee/Brawl attacks against them have Advantage.  
 [^ Stagger ]: Target has been thrown momentarily off-balance, and loses one Minor Action from their next turn. If a target can't lose any more Minor Actions, they become Stunned instead.
