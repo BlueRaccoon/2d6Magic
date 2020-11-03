@@ -1,7 +1,10 @@
 # Void Spells (Basic)
 
+- T0: [Shadowshape](#Shadowshape)
+- T1: [Inure](#Inure)
+- T2: [Transgression](#Transgression)
+- T3: [Corridor](#Corridor)
 
-[Shadowshape](#Shadowshape)
 
 ## Shadowshape
 
@@ -20,7 +23,7 @@
 
 
 
-## Inure [T1 Void]
+## Inure
 
 | Tier | School | Form  |
 | :--: | :----: | :---: |
@@ -37,7 +40,7 @@
 
 
 
-## Transgression [T2 Void]
+## Transgression
 
 | Tier | School | Form  |
 | :--: | :----: | :---: |
@@ -67,7 +70,7 @@
 
 
 
-## Corridor [T3 Void]
+## Corridor
 
 | Tier | School | Form  |
 | :--: | :----: | :---: |
