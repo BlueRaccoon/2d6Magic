@@ -1,25 +1,9 @@
-|   Force   |     World     |    Soul     |
-| :-------: | :-----------: | :---------: |
-|    Air    |   Artillery   |    Anima    |
-|   Earth   |  Distortion   | Benediction |
-|   Fire    |    Enchant    | Channeling  |
-|    Ice    |   Solidics    |  Illusion   |
-| Lightning | Transmutation |    Scry     |
-|   Water   |     Void      |   Spirit    |
-
-> **Eldrich and Shadow Terms :**
->
-> Antediluvian – Accursed – Nameless – Faint – Maddening  
-> Harrow – Vile – Horror – Dread – Hatred – Loathing – Repugnance  
-> *Abominari*: Shun as an Ill Omen
+# Void Spells (Basic)
 
 
+[Shadowshape](#Shadowshape)
 
-[TOC]
-
-
-
-## Shadowshape [T0 Void]
+## Shadowshape
 
 | Tier | School | Form  |
 | :--: | :----: | :---: |
